@@ -1,0 +1,131 @@
+body {}
+
+h1 {
+
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    text-decoration: underline;
+
+
+}
+
+h2 {
+
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+
+}
+
+h3 {
+
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+
+}
+
+h4 {
+
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+
+
+}
+
+p {
+
+    font-family: "GFS Didot", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    font-size: large;
+
+}
+
+ol,
+ul,
+dl {
+
+    list-style-type: none;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.container-fluid {
+
+
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+
+}
+
+
+.LyallPivo {
+
+
+    text-align: center;
+    background-color: #040D12;
+    color: #F8F9FC;
+}
+
+.Experience {
+
+
+    
+    background-color: #23120B;
+    color: #F8F9FC;
+
+}
+
+.Education {
+
+    background-color: #3E3232;
+    color: #F8F9FC;
+
+}
+
+.Skills {
+
+    background-color: #211717;
+    color: #F8F9FC;
+}
+
+.Awards {
+
+    background-color: #141414;
+    color: #F8F9FC;
+}
+
+.Languages {
+
+    background-color: #070F2B;
+    color: #F8F9FC;
+
+}
+
+
+.JanToNovBa {
+
+height:25px;
+
+}
+
+
+
+
+
+
+
+
+
+@import '../node_modules/bootstrap/scss/bootstrap';
